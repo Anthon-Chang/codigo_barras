@@ -1,1 +1,1 @@
-# codigo_barras
+# Laboratorio_6
